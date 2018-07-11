@@ -2,7 +2,7 @@
 data/
 
 #
-# ignore all other unnecessary code
+# ignore all other unnecessary docs
 #
 # ignore jupyter notebook cache
 /*.ipynb
@@ -15,3 +15,6 @@ images/
 /*.jpg
 /*.jpeg
 /*.bmp
+# ignore data
+/*.xls
+/*.pdf
